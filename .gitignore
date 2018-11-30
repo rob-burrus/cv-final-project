@@ -1,1 +1,7 @@
 data.mat
+train/
+test/
+validation/
+combined.mat
+old_mat/
+
