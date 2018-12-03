@@ -1,1 +1,11 @@
 data.mat
+/box_images
+/model_images
+/project_images
+/pipeline
+/false_positives
+/model_weights
+.vscode/
+
+*.docx
+
